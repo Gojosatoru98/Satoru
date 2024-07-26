@@ -1,0 +1,13 @@
+h1{
+    color: crimson;
+
+}
+p{
+    color:rgb(3, 200, 197);
+}
+div{
+    width: 250px;
+    height: 250px;
+    border-radius: 255;
+    box-shadow: 15px 15px 15px 0 #690505;
+}
